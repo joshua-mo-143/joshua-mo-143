@@ -1,7 +1,7 @@
 # Hey there! 
 
 ### About Me
-I'm Josh, a full-stack specialist who is driven to write clean, high-performance code that has tangible impact on projects.
+I'm Josh, a Web development specialist who is driven to write clean, high-performance code that has tangible impact on projects as well as business revenue.
 
 Currently, I'm a paid open source DevRel contributor for [shuttle](https://www.shuttle.rs). I also coach at workshops for a charity called [Codebar](https://codebar.io/).
 
