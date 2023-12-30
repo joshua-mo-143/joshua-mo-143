@@ -3,18 +3,10 @@
 ### About Me
 I'm Josh, a Web development specialist who is driven to write clean, high-performance code that has tangible impact on projects as well as business revenue.
 
-Currently, I'm a paid open source DevRel contributor for [shuttle](https://www.shuttle.rs). I also coach at workshops for a charity called [Codebar](https://codebar.io/).
+Professionally I'm a DevRel for [shuttle](https://www.shuttle.rs). I also coach at workshops for a charity called [Codebar](https://codebar.io/).
 
-### My current tech stack
-Currently, my favourite things to use are:
-
-* Typescript
-
-* Next.js/React
-
-* Express.js
-
-* Rust
+### My Projects
+- 🦀 [chamber](https://www.github.com/joshua-mo-143/chamber) - a SecretOps manager
 
 I also have experience with PHP (as well as PHP Laravel), and Golang.
 
