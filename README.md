@@ -8,8 +8,6 @@ Professionally I'm a DevRel for [shuttle](https://www.shuttle.rs). I also coach 
 ### My Projects
 - 🦀 [chamber](https://www.github.com/joshua-mo-143/chamber) - a SecretOps manager
 
-I also have experience with PHP (as well as PHP Laravel), and Golang.
-
 ### How to find me
 Find me at my [Twitter](https://twitter.com/joshmo_dev) or [LinkedIn](https://www.linkedin.com/in/joshua-mo-4146aa220/) if you'd like to contact me.
 
