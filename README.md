@@ -6,7 +6,6 @@ I'm Joshua Mo, a web developer who specialises in Rust. I make stuff and write b
 Professionally I'm a DevRel for [shuttle](https://www.shuttle.rs). I also do other stuff:
 - I coach at workshops for a charity called [Codebar.](https://codebar.io/)
 - I'm on the [Qdrant Star](https://qdrant.tech/stars/) program.
-- I'm a Content Advisory Board Member for [Logrocket.](https://logrocket.com/)
 
 ### My Projects
 Below you can find projects which I am maintaining.
@@ -15,6 +14,8 @@ Below you can find projects which I am maintaining.
 - 🦀 [severn](https://www.github.com/joshua-mo-143/severn) - a library crate for AI Agent pipelines in Rust
 
 ### How to find me
-Find me at my [Twitter](https://twitter.com/joshmo_dev) or [LinkedIn](https://www.linkedin.com/in/joshua-mo-4146aa220/) if you'd like to contact me.
+- [Twitter](https://twitter.com/joshmo_dev)
+- [LinkedIn](https://www.linkedin.com/in/joshua-mo-4146aa220/)
+- [Bluesky](https://bsky.app/profile/joshmo-dev.bsky.social)
 
 Thanks for reading!
