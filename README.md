@@ -1,9 +1,9 @@
 # Hey there! 
 
 ### About Me
-I'm Joshua Mo, a web developer who specialises in Rust. I make stuff and write blog posts for people who are interested in writing Rust.
+I'm Joshua Mo, a software engineer who specialises in Rust. Professionally, I make stuff and write blog posts for people who are interested in writing Rust.
 
-Professionally I'm a DevRel for [shuttle](https://www.shuttle.rs). I also do other stuff:
+Professionally I'm a DevRel for [shuttle](https://www.shuttle.dev). I also do other stuff:
 - I coach at workshops for a charity called [Codebar.](https://codebar.io/)
 - I'm on the [Qdrant Star](https://qdrant.tech/stars/) program.
 
