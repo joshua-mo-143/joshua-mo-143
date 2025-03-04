@@ -9,7 +9,7 @@ Professionally I'm a DevRel Engineer for [Playgrounds Analaytics inc.](https://g
 
 ### A short history
 - Feb 2023 - Feb 2025: DevRel Engineer at [shuttle.dev](https://shuttle.dev)
-- current: DevRel Engineer at [Playgrounds Analaytics inc.](https://github.com/0xPlaygrounds)
+- current: DevRel Engineer at [Playgrounds Analytics inc.](https://github.com/0xPlaygrounds)
 
 ### My Projects
 Below you can find projects which I am maintaining.
