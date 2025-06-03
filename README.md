@@ -17,6 +17,9 @@ Below you can find projects which I am maintaining.
 - 🦀 [ballista](https://www.github.com/joshua-mo-143/ballista) - an Obsidian.md GPT wrapper that ingests obsidian-git repos and lets you talk to them via OpenAI
 - 🦀 [severn](https://www.github.com/joshua-mo-143/severn) - a library crate for AI Agent pipelines in Rust
 
+Here's a list of projects that I made because I thought they were interesting (but probably won't be maintaining):
+- 🦀 [spinner](https://www.github.com/joshua-mo-143/spinner) - a Proof of Concept crypto tumbler, utilising zk-SNARKs
+
 ### How to find me
 - [Twitter](https://twitter.com/joshmo_dev)
 - [LinkedIn](https://www.linkedin.com/in/joshua-mo-4146aa220/)
