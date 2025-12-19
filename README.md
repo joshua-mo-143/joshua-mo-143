@@ -8,7 +8,7 @@ Professionally I'm a DevRel Engineer for [Playgrounds Analytics inc.](https://gi
 - I'm on the [Qdrant Star](https://qdrant.tech/stars/) program.
 
 ### A short history
-- Feb 2023 - Feb 2025: DevRel Engineer at [shuttle.dev](https://shuttle.dev)
+- Feb 2023 - Feb 2025: DevRel Engineer at [shuttle.dev](https://shuttle.dev) (Company ceased operations as of the start of 2026)
 - current: DevRel Engineer at [Playgrounds Analytics inc.](https://github.com/0xPlaygrounds)
 
 ### My Projects
