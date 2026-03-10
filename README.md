@@ -3,7 +3,7 @@
 ### About Me
 I'm Joshua Mo, a software engineer who specialises in Rust. Professionally, I make stuff and write blog posts for people who are interested in writing Rust. I'm also interested in AI/ML and WASM.
 
-Professionally I do open source maintenance (and am the lead maintainer for Rig, the Rust AI framework) for [Playgrounds Analytics inc.](https://github.com/0xPlaygrounds) I also do other stuff:
+Professionally I am a lead DevRel engineer for [Venice.ai](https://venice.ai), a private AI model platform. I also do other stuff:
 - I coach at workshops for a charity called [Codebar.](https://codebar.io/)
 
 ### A short history
