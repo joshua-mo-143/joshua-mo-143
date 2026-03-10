@@ -8,7 +8,8 @@ Professionally I do open source maintenance (and am the lead maintainer for Rig,
 
 ### A short history
 - Feb 2023 - Feb 2025: DevRel Engineer at [shuttle.dev](https://shuttle.dev) (Company ceased operations as of the start of 2026)
-- current: [Rig](https://github.com/0xplaygrounds/rig) project lead at [Playgrounds Analytics inc.](https://github.com/0xPlaygrounds)
+- Jan 2025 - April 2025: [Rig](https://github.com/0xplaygrounds/rig) project lead at [Playgrounds Analytics inc.](https://github.com/0xPlaygrounds)
+- Current: Lead DevRel Engineer for [Venice.ai](https://venice.ai)
 
 ### My Projects
 Below you can find projects which I am maintaining.
